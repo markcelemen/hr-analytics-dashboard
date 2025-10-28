@@ -1,5 +1,7 @@
 # HR Analytics Dashboard 📊
 
+![Dashboard Demo](demo.mp4)  
+
 ## Project Summary 🌟
 
 The **HR Analytics Dashboard** is an interactive Excel-based tool for **tracking employee performance, attrition trends, and workforce demographics**. Using pivot tables, pivot charts, slicers, and Excel functions, HR professionals can **quickly monitor attrition rates, job satisfaction, and employee distribution by department, gender, or education field**.
