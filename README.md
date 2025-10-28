@@ -1,6 +1,6 @@
 # HR Analytics Dashboard 📊
 
-![Dashboard Demo](demo.mp4)  
+![Dashboard Snapshot](dashboard.png)  
 
 ## Project Summary 🌟
 
